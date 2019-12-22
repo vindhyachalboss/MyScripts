@@ -8,4 +8,5 @@ def divide(x,y):
     pass
 def square(x,y):
     pass
-
+def  add(x,y,z):
+    pass
